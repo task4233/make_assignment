@@ -6,7 +6,7 @@ make_assignment
 
 ## Demo
 生成されるテキストファイルの例 <br><br>
-![demo_image](demo.png)
+![demo_image](/demo.png)
 
 ## Requirement
 UNIXコマンドが使用できる環境(シェルスクリプトを利用するため)
@@ -19,4 +19,4 @@ UNIXコマンドが使用できる環境(シェルスクリプトを利用する
 　 を実行してください。
 
 ## Download
-[ダウンロード(ZIPファイル)](/make_assignment.zip)
+[ダウンロード(ZIPファイル)](/master.zip)
