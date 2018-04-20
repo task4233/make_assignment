@@ -5,7 +5,7 @@ task_formatter
 課題番号、ソースコード、実行結果をまとめたテキストファイルを生成します。
 
 ## Demo
-生成されるテキストファイルの例 <br>
+生成されるテキストファイルの例 <br><br>
 ![demo_image](https://github.com/task4233/task_formatter/blob/master/demo.png)
 
 ## Requirement
