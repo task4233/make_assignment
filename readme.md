@@ -1,4 +1,4 @@
-task_formatter
+make_assignment
 ====
 
 ## Description
@@ -6,7 +6,7 @@ task_formatter
 
 ## Demo
 生成されるテキストファイルの例 <br><br>
-![demo_image](https://github.com/task4233/task_formatter/blob/master/demo.png)
+![demo_image](https://github.com/task4233/make_assignment/blob/master/demo.png)
 
 ## Requirement
 UNIXコマンドが使用できる環境(シェルスクリプトを利用するため)
@@ -19,4 +19,4 @@ UNIXコマンドが使用できる環境(シェルスクリプトを利用する
 　 を実行してください。
 
 ## Download
-[ダウンロード(ZIPファイル)](https://github.com/task4233/task_formatter/blob/master/demo.png)
+[ダウンロード(ZIPファイル)](https://github.com/task4233/make_assignment/blob/master/demo.png)
