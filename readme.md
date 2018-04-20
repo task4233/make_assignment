@@ -5,7 +5,7 @@ task_formatter
 課題番号、ソースコード、実行結果をまとめたテキストファイルを生成します。
 
 ## Demo
-[demo_image](https://github.com/task4233/task_formatter/blob/master/demo.png)
+![demo_image](https://github.com/task4233/task_formatter/blob/master/demo.png)
 
 ## Requirement
 UNIXコマンドが使用できる環境(シェルスクリプトを利用するため)
