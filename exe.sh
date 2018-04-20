@@ -18,7 +18,7 @@ writing_filename=${2%.*}
 shift
 ARGUMENTS="$@"
 
-gcc $CFLAGS $filename.c -o $filename && ./$filename $ARGUMENTS >> $writing_filename.txt
+gcc $CFLAGS ${filename}.c -o ${filename} && ./${filename} $ARGUMENTS >> ${writing_filename}.txt
 
-rm -f $filename && rm -f -r $filename.dSYM
+rm -f ${filename} && rm -f -r ${filename}.dSYM
 
