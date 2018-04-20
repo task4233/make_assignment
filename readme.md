@@ -19,4 +19,4 @@ UNIXコマンドが使用できる環境(シェルスクリプトを利用する
 　 を実行してください。
 
 ## Download
-[ダウンロード(ZIPファイル)](/master.zip)
+[ダウンロード(ZIPファイル)](/make_assignment.zip)
