@@ -18,5 +18,5 @@ UNIXコマンドが使用できる環境(シェルスクリプトを利用する
 4. sh makefile.sh [課題番号] [課題ファイルのファイル数]
 　 を実行してください。
 
-ex.) sh makefile.sh 1 12
+ex.) sh makefile.sh 1 12<br>
 課題1の12個のCファイルをまとめる。
